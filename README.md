@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+> [!WARNING]
+> WIP
+
 <!--
 **steven-briais-mlp/steven-briais-mlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Steven GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-briais-mlp)](https://github.com/anuraghazra/github-readme-stats)
+**My Skills**
+
+Back-end
+
+[![My Skills Back](https://skillicons.dev/icons?i=php,symfony,mysql,postman)](https://skillicons.dev)
+
+[![My Skills Back 2](https://skillicons.dev/icons?i=docker,nginx,sentry)](https://skillicons.dev)
+
+Front-end
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,figma)](https://skillicons.dev)
+
+Others
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,bash)](https://skillicons.dev)
+
+Powered by
+
+[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
