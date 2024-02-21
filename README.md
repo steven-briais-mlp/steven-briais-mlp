@@ -37,3 +37,5 @@ Others
 Powered by
 
 [![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+
+<a href="https://app.daily.dev/duke"><img src="https://api.daily.dev/devcards/v2/TibILwFU31jZqf13wom8i.png?type=default&r=drj" width="356" alt="Steven BRIAIS's Dev Card"/></a>
